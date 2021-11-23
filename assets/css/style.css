@@ -1688,7 +1688,7 @@ blockquote {
   width: 100vw;
   height: 100vh;
   z-index: 9999;
-  transition: all 4.5s;
+  transition: all 2.5s;
   display: flex;
   align-items: center;
   justify-content: center;
